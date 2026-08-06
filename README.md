@@ -32,3 +32,9 @@ back end     code-based automation runner (open source)
 database     MongoDB (built-in vector search for RAG)
 hosting      Vercel (front) + runner cloud (back),
              or the client's own servers for enterprise
+
+
+To do plan:
+1. Set up the OS today: folder + Claude Code + skills + GitHub backup. 20 minutes, do it right now
+2. Build your first template website tomorrow for a fake business, deploy it free
+3. This weekend: create your freelance profile AND launch one small cold campaign
